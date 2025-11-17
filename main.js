@@ -13,7 +13,5 @@ function ocutaImg() {
  img.style.visibility= "visible"
 
 }
-function saudação(){
+
 alert('olá, Vivian. Seja bem vinda')
- 
-}
