@@ -21,6 +21,7 @@ button {
 .foto {
  position: absolute;
  top: 20%;
+ visibility: hidden;
 }
 
 @keyframes floop {
