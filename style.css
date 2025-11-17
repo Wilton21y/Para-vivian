@@ -21,19 +21,17 @@ button {
 .foto {
  position: absolute;
  top: 20%;
- visibility: hidden;
 }
 
 @keyframes floop {
  0% {width: 290px;
   height: 290px;
  }
- 25% {}
- 50% {}
  100% { width: 300px;
   height: 300px;}
 }
 img {
+  visibility: hidden;
  animation: floop 2s infinite alternate-reverse;
  width: 300px;
  height: 300px;
